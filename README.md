@@ -26,6 +26,6 @@
 ---
 
 ### 📩 Contacto
-[LinkedIn](https://www.linkedin.com/in/david-alejandro-tibambre-vasco-9ba0a3341) | [Email](mailto:davidalejandrotibambrevasco@gmail.com)
+<a href="https://www.linkedin.com/in/david-alejandro-tibambre-vasco-9ba0a3341" target="_blank">LinkedIn</a> | <a href="mailto:davidalejandrotibambrevasco@gmail.com">Email</a>
 
 </div>
