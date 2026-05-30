@@ -1,63 +1,45 @@
-<!-- welcome message -->
+<div align="center">
 
-# Hi there! My Name is David Tibambre.
+# ¡Hola, soy David Tibambre! 👋
 
-<!-- badge -->
-<div>
-  <a href="https://www.linkedin.com/in/david-alejandro-tibambre-vasco-3b10b4115/" target="_blank">
-    <img height="35" alt="linkedin logo" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
-  <a href="mailto:davidalejandrotibambrevasco@gmail.com" target="_blank">
-    <img height="35" alt="gmail logo" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" />
-  </a>
+**QA Automation Engineer | Especialista en Validación de Microservicios & Regresiones**
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+<br>
+<img align="left" alt="Groovy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br><br>
+
+---
+
+### 📈 Estadísticas de GitHub
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidalejandrotibambrevasco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalejandrotibambrevasco&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
+---
 
-I'm a QA Automation Engineer.
+### 🚀 Sobre mí
+- 🔍 **Enfoque:** Automatización de flujos end-to-end y validación de microservicios.
+- ⚙️ **Especialidad:** Creación de scripts reusables y mantenimiento de ciclos de regresión complejos.
+- 🤝 **Colaboración:** Siempre buscando mejorar la calidad del software mediante procesos eficientes de CI/CD.
+- 📧 **Contacto:** [davidalejandrotibambrevasco@gmail.com](mailto:davidalejandrotibambrevasco@gmail.com)
+- 🔗 **LinkedIn:** [David Tibambre](https://www.linkedin.com/in/david-alejandro-tibambre-vasco-3b10b4115/)
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+---
 
-- 🔭 I’m currently working on automating test cases and managing regression cycles.
-- 🌱 I’m constantly improving my skills in microservice-based validation and payload checking.
-- 👯 I’m looking to collaborate on any project that aligns with my interests in software quality and automation.
-- 💼 I'm also writing some interesting scripts for flow validation, you can have a look on my pinned repositories.
-- 👋 Ask me about anything related to programming, software automation, or testing tools.
-- 😄 You can reach me using above social badges links.
+### 🐍 Snake Animation
+*(Esta animación se verá una vez que configures tu GitHub Actions)*
+<br>
+<img src="https://github.com/davidalejandrotibambrevasco/davidalejandrotibambrevasco/blob/output/github-contribution-grid-snake.svg" />
 
-Here are programming languages or tools I frequently used:
-
-<div>
-  <img height="30" width="42" alt="groovy logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
-  <img height="30" width="42" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="30" width="42" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" width="42" alt="postman logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img height="30" width="42" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" width="42" alt="docker logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-
-##
-
-
-<!-- grph -->
-<div>
-  <div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/3-stats.svg" />
-  </div>
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-##
-
-You can also have a look on my latest posts:
-
-[![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://playground.mraddict.top/api/blog/redirect?index=1)
-[![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://playground.mraddict.top/api/blog/redirect?index=2)
-[![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://playground.mraddict.top/api/blog/redirect?index=3)
-[![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://playground.mraddict.top/api/blog/redirect?index=4)
-
-##
-
-If you have any questions or just want to say hi, feel free to reach out.
